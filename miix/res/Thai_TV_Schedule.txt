@@ -1,0 +1,3 @@
+﻿ให้คุณติดตามรายการโทรทัศน์รายการโปรดของคุณได้ จากสถานีหลักทั้ง 6 สถานี โดยสามารถแบ่งปันระหว่างเพื่อนฝูง เพื่อนร่วมงาน และ ครอบครัว ได้ภายในคลิกเดียว
+
+ThaiTVSchedule is a TV program, which displays six major channels in Thailand. It allows you to search full episodes of your favorite TV shows, and to make them as your favorite programs. Share what you like. Then enjoy watching programs with friends, colleagues or family just one click.

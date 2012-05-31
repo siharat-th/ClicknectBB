@@ -1,0 +1,136 @@
+package com.jimmysoftware.ui;
+import com.jimmysoftware.device.api.command.Command;
+
+import net.rim.device.api.system.Bitmap;
+import net.rim.device.api.ui.Color;
+import net.rim.device.api.ui.Field;
+import net.rim.device.api.ui.Graphics;
+import net.rim.device.api.ui.MenuItem;
+import net.rim.device.api.ui.TouchEvent;
+import net.rim.device.api.ui.component.BitmapField;
+import net.rim.device.api.ui.decor.BackgroundFactory;
+
+public class BitmapButtonField extends BitmapField {
+	Bitmap hover;
+	Bitmap old;
+	private Command command;
+	private int w, h;
+
+	public BitmapButtonField(Bitmap source, Bitmap hover) {
+		this(source, hover, Field.FOCUSABLE);
+	}
+	
+	public BitmapButtonField(Bitmap source, Bitmap hover, long style) {
+		super(source, style);
+		//super(source);
+		this.old = source;
+		this.hover = hover;
+		this.w = source.getWidth();
+		this.h = source.getHeight();
+		//setBackground(BackgroundFactory.createSolidTransparentBackground(Color.WHITE, 0));
+		//setPosition(x, y);
+	}
+	
+	public int getPreferredWidth(){
+		return w;
+	}
+	
+	public int getPreferredHeight(){
+		return h;
+	}
+
+	protected void onFocus(int direction) {
+		setBitmap(hover);
+		super.onFocus(direction);
+	}
+	
+	public void unSelected(){
+		onUnfocus();
+	}
+
+	protected void onUnfocus() {
+		setBitmap(old);
+		super.onUnfocus();
+	}
+
+	public void setCommand(Command command) {
+		this.command = command;
+	}
+	
+	public void drawFocus(Graphics g, boolean on){
+	}
+	
+	public MenuItem createMenuItem(String text, int ordinal, int priority){
+		MenuItem menuItem = new MenuItem(text, ordinal, priority){
+
+			public void run() {
+				executeCommand();
+			}
+			
+		};
+		return menuItem;
+	}
+	
+//	public void paint(Graphics g){
+//		g.drawBitmap(x, y, w, h, getBitmap(), 0, 0);
+//	}
+	
+	public boolean executeCommand(){
+		if(command==null) return false;
+		if (command.canExecute(this)) {
+			setBitmap(hover);
+			command.execute(this);
+			return true;
+		}
+		return false;
+	}
+	
+//	protected boolean touchEvent(TouchEvent message){
+//		int x = message.getX(1);
+//        int y = message.getY(1);        
+//                                          
+//        int eventCode = message.getEvent();   
+//        if(eventCode==TouchEvent.UP){
+//        	if(isPointIn(x, y)){
+//        		if(command==null) return false;
+//        		if (command.canExecute(this)) {
+//        			command.execute(this);
+//        			return true;
+//        		}
+//        	}
+//        }
+//        else if(eventCode==TouchEvent.DOWN || eventCode==TouchEvent.MOVE){
+//        	if(isPointIn(x, y)){
+//        		setBitmap(hover);
+//        		return true;
+//        	}
+//        }
+//        else{
+//        	setBitmap(old);
+//        	return true;
+//        }
+//        
+//        
+//		return false;
+//	}
+	
+//	private boolean isPointIn(int x, int y){
+//		if(x<this.x) return false;
+//		if(x>this.x+w) return false;
+//		if(y<this.y) return false;
+//		if(y>this.y+h) return false;
+//		return true;
+//	}
+
+	
+	protected boolean navigationClick(int status, int time) {
+		if(command==null) return false;
+		if (command.canExecute(this)) {
+			command.execute(this);
+			return true;
+		}
+		return false;
+	}
+	
+}
+

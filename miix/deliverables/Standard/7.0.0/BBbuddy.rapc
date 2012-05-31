@@ -1,0 +1,10 @@
+MIDlet-Name: BBbuddy
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: Click Connect Co., Ltd.
+MIDlet-Jar-URL: BBbuddy.jar
+MIDlet-Jar-Size: 0
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: BBbuddy,img/icon.png,
+RIM-MIDlet-Flags-1: 0
+

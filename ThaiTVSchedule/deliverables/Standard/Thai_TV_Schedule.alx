@@ -1,0 +1,31 @@
+<loader version="1.0">
+	<application id="Thai_TV_Schedule">
+		<name >
+			Thai TV Schedule
+		</name>
+		<description >
+			
+		</description>
+		<version >
+			1.5.0
+		</version>
+		<vendor >
+			Click Connect Co., Ltd.
+		</vendor>
+		<copyright >
+			Copyright (c) 2012 Click Connect Co., Ltd.
+		</copyright>
+		<fileset Java="1.54" _blackberryVersion="[5.0.0)">
+			<directory >
+				5.0.0
+			</directory>
+			<files >
+				Thai_TV_Schedule.cod
+
+			</files>
+
+		</fileset>
+
+	</application>
+
+</loader>

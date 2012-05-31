@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+RIM-COD-Module-Name: ThaiNews
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_bb_browser_field2_api,net_rim_os,net_rim_locationapi,net_rim_xml,net_rim_xml_org,net_rim_pdap,net_rim_bbapi_mailv2,net_rim_bbapi_invoke
+MIDlet-Jar-Size: 129393
+MIDlet-1: ThaiNews,res/img/icon.png,
+RIM-COD-Creation-Time: 1338444050
+MIDlet-Jar-URL: EVERY2.jar
+RIM-COD-URL: ThaiNews.cod
+RIM-COD-SHA1: ac b3 d6 f1 38 60 71 b9 50 8e 77 41 e7 57 72 fb b4 a4 42 54
+RIM-COD-Size: 53704
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Version: 1.5.0
+MIDlet-Name: EVERY2
+MIDlet-Description: The new era of ThaiNews.
+MIDlet-Vendor: Click Connect Co., Ltd.
+MicroEdition-Profile: MIDP-2.0
+RIM-MIDlet-Flags-1: 0

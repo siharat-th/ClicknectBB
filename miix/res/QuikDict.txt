@@ -1,0 +1,9 @@
+﻿โปรแกรมแปลภาษา โดยสามารถแปลศัพท์อังกฤษ เป็นไทย ด้วยคำศัพท์มากกว่า 80,000 คำ และแปลศัพท์ภาษาไทยเป็นอังกฤษ ด้วยคำศัพท์มากกว่า 50,000 คำ พร้อมด้วยประโยคตัวอย่างของศัพท์นั้นๆ รวมถึงคำเทียบเคียงที่มีความหมายเหมือนกัน สามารถค้นหาความหมายได้โดยไม่ต้องเชื่อมต่ออินเตอร์เน็ต
+
+A bilingual dictionaries integrated English-Thai and Thai-English dictionary.
+
+Features:
+- English-Thai, more than 80,000 Words and phrases included relates, examples, and synonyms.
+- Thai-English, more than 50,000 Words and phrases.
+- Easy to read word meaning with smart layout.
+- No internet connection required.

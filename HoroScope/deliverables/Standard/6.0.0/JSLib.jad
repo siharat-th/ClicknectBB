@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+RIM-COD-Module-Name: JSLib
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_bbapi_browser,net_rim_os,net_rim_pdap,net_rim_bbapi_mailv2,net_rim_bbapi_invoke
+MIDlet-Jar-Size: 39321
+RIM-COD-Creation-Time: 1302623790
+MIDlet-Jar-URL: JSLib.jar
+RIM-COD-URL: JSLib.cod
+RIM-Library-Flags: 2
+RIM-COD-SHA1: 8a 56 5d cd fb be 18 56 60 68 1c 83 e6 08 e8 08 6e a2 ce e8
+RIM-COD-Size: 21688
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Version: 1.0.0
+MIDlet-Name: JSLib
+MIDlet-Description: JS BlackBerry Libs.
+MIDlet-Vendor: Jimmy Software Co., Ltd.
+MicroEdition-Profile: MIDP-2.0

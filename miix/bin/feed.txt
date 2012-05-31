@@ -1,0 +1,42 @@
+﻿feedversion=11.10.11.00
+num=5
+
+appname=miix
+modulename=miix
+version=1.0.0
+sdesc=ค้นหาและดาวน์โหลดเเอพพลิเคชันไทยดีๆ ฟรีๆ
+icon=thumb/miix.png
+img=img/miix.png
+url=http://bbcenter.clicknect.com/miix/miix/miix.jad
+
+appname=EVERY ThaiNews
+modulename=ThaiNews
+version=1.5.0
+sdesc=ข่าวสำคัญในรอบวัน
+icon=thumb/every.png
+img=img/every.png
+url=http://bbcenter.clicknect.com/miix/every/ThaiNews.jad
+ 
+appname=Horoscope
+modulename=Horoscope
+version=1.5.0
+sdesc=เช็คดวงรายวันตามจักรราศี
+icon=thumb/horoscope.png
+img=img/horoscope.png
+url=http://bbcenter.clicknect.com/miix/horoscope/Horoscope.jad
+ 
+appname=QuikDict
+modulename=QuikDict
+version=1.5.0
+sdesc=แปลคำศัพท์ ภาษาไทย-อังกฤษ, อังกฤษ-ไทย
+icon=thumb/quikdict.png
+img=img/quikdict.png
+url=http://bbcenter.clicknect.com/miix/quikdict/QuikDict.jad
+
+appname=ThaiTVSchedule
+modulename=Thai_TV_Schedule
+version=1.5.0
+sdesc=รายการทีวี6สถานีหลักและเวลาออกอากาศ
+icon=thumb/thaitv.png
+img=img/thaitv.png
+url=http://bbcenter.clicknect.com/miix/thaitv/Thai_TV_Schedule.jad

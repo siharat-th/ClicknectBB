@@ -1,0 +1,11 @@
+MIDlet-Name: EVERY2
+MIDlet-Version: 1.1.0
+MIDlet-Vendor: Clicknect Co., Ltd.
+MIDlet-Description: The new era of ThaiNews.
+MIDlet-Jar-URL: EVERY2.jar
+MIDlet-Jar-Size: 0
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: ThaiNews,img/icon.png,
+RIM-MIDlet-Flags-1: 0
+

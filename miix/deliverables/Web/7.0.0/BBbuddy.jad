@@ -1,0 +1,19 @@
+MIDlet-Name: BBbuddy
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: Click Connect Co., Ltd.
+MIDlet-Jar-URL: BBbuddy.jar
+MIDlet-Jar-Size: 239869
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: BBbuddy,img/icon.png,
+RIM-MIDlet-Flags-1: 0
+Manifest-Version: 1.0
+RIM-COD-URL: BBbuddy.cod
+RIM-COD-Size: 38944
+RIM-COD-Creation-Time: 1310431708
+RIM-COD-Module-Name: BBbuddy
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_os,net_rim_bbapi_browser,net_rim_pdap,net_rim_bbapi_mailv2,net_rim_bbapi_invoke
+RIM-COD-SHA1: 0d 8a 50 e6 f7 1a 9e 16 99 17 b2 a8 5b 49 1d 89 12 f4 71 90
+RIM-COD-URL-1: BBbuddy-1.cod
+RIM-COD-Size-1: 57928
+RIM-COD-SHA1-1: 6d e7 0c 29 6b d4 55 15 16 6e 9d ff 22 ca 87 11 08 cf 68 f2

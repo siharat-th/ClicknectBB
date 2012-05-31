@@ -1,0 +1,545 @@
+RIM-COD-SHA1-42: 71 6d 64 dd b4 01 71 0a 80 e7 a5 64 99 c0 c7 b8 41 78 02 72
+RIM-COD-SHA1-41: 40 6e 4f 37 ba 25 f6 eb f7 24 c1 ba 28 10 89 e7 e7 f0 05 f1
+RIM-COD-SHA1-40: 2a df 10 98 f5 46 76 14 2c 75 11 99 fc e7 9e ed 1b 3a d8 9c
+RIM-COD-Size-29: 52768
+RIM-COD-Size-28: 52768
+RIM-COD-Size-27: 52768
+RIM-COD-Size-26: 52768
+RIM-COD-Size-25: 52340
+RIM-COD-Size-24: 52768
+RIM-COD-URL-49: QuikDict-49.cod
+RIM-COD-Size-23: 52768
+RIM-COD-URL-48: QuikDict-48.cod
+RIM-COD-Size-22: 52768
+RIM-COD-URL-47: QuikDict-47.cod
+RIM-COD-Size-21: 52768
+RIM-COD-URL-46: QuikDict-46.cod
+RIM-COD-Size-20: 52768
+RIM-COD-URL-45: QuikDict-45.cod
+RIM-COD-URL-44: QuikDict-44.cod
+RIM-COD-SHA1-39: c4 8e 1e 88 6d 21 d8 be 41 91 76 5c 16 1a d9 63 6a 02 8e 79
+RIM-COD-URL-43: QuikDict-43.cod
+RIM-COD-SHA1-38: 19 fc aa 2e fa 05 9c c3 ef b7 16 b7 83 3b 9a 39 e6 cd 6c a3
+RIM-COD-URL-42: QuikDict-42.cod
+RIM-COD-SHA1-37: 9e 05 ec b7 b1 ec 71 3e 13 f9 18 29 31 b0 29 df 49 36 b0 78
+RIM-COD-URL-41: QuikDict-41.cod
+RIM-COD-SHA1-36: 8a 3d 88 69 69 0d a6 e0 87 40 d8 02 7c 77 94 7c e4 f6 42 f0
+RIM-COD-URL-40: QuikDict-40.cod
+RIM-COD-SHA1-35: 75 32 d3 bb d9 71 ca ef 81 8f 1c 2e 46 04 a3 f9 ec 6d c1 f4
+RIM-COD-SHA1-34: c1 ac 55 d7 ba f9 b9 f5 ca 69 58 eb d2 b9 5d e7 1f d6 37 a1
+RIM-COD-SHA1-33: ce 33 d6 09 ff bf 31 10 41 ac 3c 2f 82 6c 51 c3 74 5f 1e 99
+RIM-COD-SHA1-32: 8e 59 2d c8 b7 2b f8 63 8c 81 ad 03 a7 8e d6 f4 9e 9f af 12
+RIM-COD-SHA1-31: 7e fc 5a dc 18 eb 48 f2 7e ca e5 64 e1 4f 1c 5e a7 6f 18 b9
+RIM-COD-SHA1-30: 24 9e 6a a7 74 6b 53 42 23 bc 6d 5f 31 2b 3e e4 9a 61 08 8d
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_bb_browser_field2_api,net_rim_os,net_rim_pdap,net_rim_bbapi_mailv2,net_rim_bbapi_invoke
+RIM-COD-Size-19: 52768
+RIM-COD-Size-18: 52768
+RIM-COD-Size-17: 52768
+RIM-COD-Size-16: 52764
+RIM-COD-Size-15: 52764
+RIM-COD-Size-14: 52340
+RIM-COD-URL-39: QuikDict-39.cod
+RIM-COD-Size-13: 52764
+RIM-COD-URL-38: QuikDict-38.cod
+RIM-COD-Size-12: 52764
+RIM-COD-URL-37: QuikDict-37.cod
+RIM-COD-Size-11: 52764
+RIM-COD-URL-36: QuikDict-36.cod
+RIM-COD-Size-10: 52764
+RIM-COD-URL-35: QuikDict-35.cod
+RIM-COD-URL-34: QuikDict-34.cod
+RIM-COD-SHA1-29: 84 61 a4 57 5b fa 40 6b 95 02 16 d4 ff 27 10 e3 76 12 16 f7
+RIM-COD-URL-33: QuikDict-33.cod
+RIM-COD-SHA1-28: 5b b0 b2 cd 6b b0 8e 97 6a fe 00 9c 86 b3 ef 25 4f 9e 78 66
+RIM-COD-URL-32: QuikDict-32.cod
+RIM-COD-SHA1-27: 9f 10 99 89 a9 3c fc 23 3c 04 29 f3 c2 67 6c 05 97 d6 78 d1
+RIM-COD-URL-31: QuikDict-31.cod
+RIM-COD-SHA1-26: 5b bd c8 15 75 7c 87 a2 8f f2 31 0e 8a 46 60 ff fa df 07 fe
+RIM-COD-URL-30: QuikDict-30.cod
+RIM-COD-SHA1-25: 73 02 68 27 f1 51 94 88 08 a1 1f 0d 42 2b 51 4c f2 1b df 5c
+RIM-COD-SHA1-24: 8a e9 93 72 2b 7c c8 74 3b 85 a6 c4 69 d1 0a 41 87 3f 77 0c
+RIM-COD-SHA1-23: 16 75 38 7e 9a 67 f2 8f 5d 95 4e 00 14 46 67 d4 70 5b 77 e4
+RIM-COD-SHA1-22: 63 40 aa b5 b9 45 e0 a0 d2 89 89 f3 54 9a 87 c4 be 00 43 b5
+RIM-COD-SHA1-21: 79 7f 03 3d 19 f0 3d a5 1d f5 61 5e 4c 76 dd 73 78 0e 62 7b
+RIM-COD-SHA1-20: 91 7c 6e 9c 77 57 9b 16 93 1c 1f 3d 8e 4f b4 d2 c7 2f 49 ee
+RIM-COD-URL-29: QuikDict-29.cod
+RIM-COD-URL-28: QuikDict-28.cod
+RIM-COD-URL-27: QuikDict-27.cod
+RIM-COD-URL-26: QuikDict-26.cod
+RIM-COD-URL-25: QuikDict-25.cod
+RIM-COD-URL-24: QuikDict-24.cod
+RIM-COD-SHA1-19: 10 46 1e cf 00 0b 80 a6 aa 3e 9b 4b 47 fc d4 4c 44 0f db a9
+RIM-COD-URL-23: QuikDict-23.cod
+RIM-COD-SHA1-18: 25 36 d1 8c 38 0d 33 78 93 6e 8e 52 42 7b f2 aa cc aa f4 8c
+RIM-COD-URL-22: QuikDict-22.cod
+RIM-COD-SHA1-17: e7 4b 4d 7b b3 1a 68 60 33 d7 6f 61 26 18 c7 61 19 a9 da b9
+RIM-COD-URL-21: QuikDict-21.cod
+RIM-COD-SHA1-16: 1c fb 32 67 88 66 15 8c 2c a0 35 98 35 a4 cd fd 8a 21 28 0b
+RIM-COD-URL-20: QuikDict-20.cod
+RIM-COD-SHA1-15: 0b 30 61 ff 98 a4 e1 db 6f 5d b0 25 d1 7f e7 ca d0 0b 6c 3e
+RIM-COD-SHA1-14: 5f 16 56 a3 1f 43 dd 3e a4 82 7d 63 87 b0 e6 0a 62 fb a3 7f
+RIM-COD-SHA1-13: 43 5b b7 71 9f 07 25 d6 e4 fd 42 54 ac 71 71 8a 6e 21 06 40
+RIM-COD-SHA1-12: f6 53 7b 6d 16 18 27 2e 0c 33 8e ab f7 17 a5 6c 9e 97 96 8e
+RIM-COD-SHA1-11: f9 38 23 df 65 8c 71 fe fe d6 f1 2f bc dc 9f dd 6d 41 f1 7b
+RIM-COD-SHA1-10: 92 18 1a 5c 29 f5 ff 84 e5 b2 a9 75 ec 71 3a 16 30 d3 86 53
+RIM-COD-URL-19: QuikDict-19.cod
+RIM-COD-URL-18: QuikDict-18.cod
+RIM-COD-URL-17: QuikDict-17.cod
+RIM-COD-URL-16: QuikDict-16.cod
+RIM-COD-URL-15: QuikDict-15.cod
+RIM-COD-URL-14: QuikDict-14.cod
+RIM-COD-URL-13: QuikDict-13.cod
+RIM-COD-URL-12: QuikDict-12.cod
+RIM-COD-Size-9: 52764
+RIM-COD-URL-11: QuikDict-11.cod
+RIM-COD-Size-8: 52764
+RIM-COD-URL-10: QuikDict-10.cod
+RIM-COD-Size-7: 52764
+RIM-COD-Size-6: 52764
+RIM-COD-Size-5: 52764
+RIM-COD-Size-4: 52764
+RIM-COD-Size-3: 58460
+RIM-COD-Size-2: 52292
+RIM-COD-Size-1: 57644
+RIM-COD-Creation-Time: 1315370381
+RIM-COD-SHA1-9: a6 26 8a f1 b5 3b d1 7d 85 e2 b8 48 62 b0 bd d9 0a fc 29 6e
+RIM-COD-SHA1-8: 12 10 a5 24 61 a7 37 86 f1 04 64 54 8f 2c c4 d6 96 3e 46 f8
+RIM-COD-SHA1-7: 13 64 73 39 95 2c d4 c6 89 04 a4 47 e1 f7 6b 9c 7c 84 87 fb
+RIM-COD-SHA1-6: 71 e5 d3 bc 3d 8c 4c 82 df 2e 5b fa 15 19 5f b1 10 ff 8e e9
+RIM-COD-SHA1-5: f5 47 e8 1d 8e 58 68 a4 dc b1 21 d8 93 e2 21 72 f2 f3 af 35
+RIM-COD-SHA1-4: ed 63 8c 97 d2 a0 d5 98 3c 66 6d a6 1d a0 c5 20 14 d8 24 8b
+RIM-COD-SHA1-3: 32 e4 3d f9 1e ea 02 47 25 53 bf 76 e2 38 df 88 3d 19 1d 74
+RIM-COD-SHA1-2: b6 ba 1b 55 47 f5 af b9 66 11 71 12 d9 43 61 1f cf 87 62 00
+RIM-COD-SHA1-1: b8 df bb 00 ee 0f 1b ea 4f d6 c0 12 aa e2 96 3d 18 a7 15 19
+RIM-COD-SHA1: 5e f0 fe bc 88 b6 bf 3b 1d 7d 9a f8 da 9f f0 69 35 48 8b 41
+MIDlet-Jar-Size: 15114570
+RIM-COD-URL: QuikDict.cod
+RIM-COD-SHA1-176: 8e 17 27 ff ba 4b 92 d8 37 ab 9e 1f e6 56 fe e1 a5 2e 35 03
+RIM-COD-SHA1-175: d3 12 1c bf 39 44 0f b4 65 cf 15 49 5e 6b 0f 01 c4 67 ff 04
+RIM-COD-SHA1-174: 25 48 9b 8b db be 0c 88 90 9e 4d db c3 9a e2 07 b7 fa d3 08
+RIM-COD-SHA1-173: 9b 1a b0 ed 5e 43 35 7b 1a f8 37 e6 80 8d 64 8b d3 35 d1 2a
+RIM-COD-SHA1-172: c0 97 4c 8f 04 29 de 64 4f 53 ca b2 37 a3 8d 6a 7e 3c a5 1c
+RIM-COD-SHA1-171: 29 1d 34 c0 97 61 94 74 30 d3 4e 8e 65 0b 94 81 f1 46 c0 26
+RIM-COD-SHA1-170: e6 0c d7 55 00 39 9d e2 bb 1a 14 89 00 a2 b3 6c af 7f 71 75
+RIM-COD-SHA1-169: 0b c3 2b 77 e5 88 7b 50 09 ce 73 98 18 17 8c 80 ad 5b 2b 56
+RIM-COD-SHA1-168: 2f bc 6a 39 b7 97 f4 d2 d3 79 d8 9e fd 24 a6 10 35 41 20 ab
+RIM-COD-SHA1-167: 53 ba be c5 af ab 66 ea 44 14 66 b3 4a 42 35 8c 44 48 b1 fa
+RIM-COD-SHA1-166: 93 6d 75 b2 68 f3 0a 93 f4 a5 c6 2c a0 fb 2b 4f b4 5c 7c 50
+RIM-COD-SHA1-165: cd e7 b0 9d 9c ba 2c e5 22 d0 b3 09 ea 9a 2d 54 68 21 e9 92
+RIM-COD-SHA1-164: 08 9e 4d 81 34 a4 25 39 38 fc 00 e6 76 bb 37 78 c3 14 aa 94
+RIM-COD-SHA1-163: 7b 72 ae b2 5a 86 e6 3d fc 9b 85 a1 32 52 83 28 c0 0b 1b f1
+RIM-COD-SHA1-162: 22 53 20 43 36 08 c0 bc 1e b9 86 09 f1 f8 d9 af e5 79 12 4c
+RIM-COD-SHA1-161: 48 1a 20 f6 b8 e8 25 f1 ed f8 af 4f 17 65 40 bc de 4a fe ef
+RIM-COD-SHA1-160: 0d 98 5c 06 9e 1e a4 40 85 26 c2 84 17 ef b7 78 c3 b2 0d 79
+RIM-COD-SHA1-159: 53 d3 6b 35 65 88 91 3d fd 91 a8 1b 22 5e 00 b7 4f c1 35 55
+RIM-COD-SHA1-158: b7 e9 20 f6 df 85 02 a2 a3 7c 9c 25 9e 3a 54 96 01 9c eb a7
+RIM-COD-SHA1-157: a0 4b 27 9b 49 27 1f 4d 3d 4f b3 4d dc ce ca 76 51 be 70 b7
+RIM-COD-SHA1-156: 24 68 71 dc d7 06 03 12 51 06 30 e2 39 d6 53 60 56 1a 6b cd
+RIM-COD-SHA1-155: 61 d7 2e fb fb 3c 92 c0 d5 53 9b f7 08 59 08 42 18 cb 44 ab
+RIM-COD-SHA1-154: 5f 9a 52 0a a8 60 05 25 49 34 f1 c6 f8 94 c6 7f 3e ee 15 18
+RIM-COD-SHA1-153: a1 f9 ba 3a a2 3f f0 81 17 de c9 6d a1 73 76 3a 77 db c3 00
+RIM-COD-SHA1-152: c6 14 f0 47 30 f0 ea 79 c5 72 f7 c8 60 a4 c0 ea 30 7d 10 b4
+RIM-COD-SHA1-151: 3b 46 b2 83 2a 6c 87 b8 b5 b0 aa ec 96 6d 04 d5 de f7 9e bf
+RIM-COD-SHA1-150: 40 c4 09 13 9b cc 64 9e a9 96 ad 21 cc 6c 60 ed 07 ca e3 3e
+RIM-COD-SHA1-149: 79 19 76 ff be 3d 60 ee dc b1 6c 6f 1b 05 ab ce 3c a1 ae 78
+RIM-COD-SHA1-148: aa d2 9d 8c b6 78 71 f4 74 a4 5d 89 35 12 c7 0e 64 bc b3 21
+RIM-COD-SHA1-147: b4 13 4f 4a 0f b8 35 72 b2 4f 61 35 4a b4 6a 23 60 db 97 95
+RIM-COD-SHA1-146: 40 46 c5 d8 b1 20 57 29 3b 27 9a 78 9c 6b 17 58 77 07 47 77
+RIM-COD-SHA1-145: 76 d7 6b 9f 25 ea 70 28 78 d2 55 67 2d a5 2e 14 6d f1 62 9f
+RIM-COD-SHA1-144: 7a 95 46 06 75 26 e3 f1 83 7d 08 97 83 69 2d f3 af a4 86 78
+RIM-COD-SHA1-143: 23 44 dd de 1a 6d 10 ce 0d 98 e0 f6 95 ef bc aa 0c df 75 b3
+RIM-COD-SHA1-142: aa 7e 4c 2f 91 15 d5 cf b2 86 ab c2 8c d3 8e cd ab 32 ab b3
+RIM-COD-SHA1-141: 40 e7 7c 0a 44 33 ac 2f d0 9a 8e da 8d 19 36 cb 99 09 e2 83
+RIM-COD-SHA1-140: e4 d8 36 94 61 4b ea c8 8a 27 ef 5d b1 86 e9 66 98 2b cb c4
+RIM-COD-URL-176: QuikDict-176.cod
+RIM-COD-URL-175: QuikDict-175.cod
+RIM-COD-URL-174: QuikDict-174.cod
+RIM-COD-URL-173: QuikDict-173.cod
+RIM-COD-Size: 94224
+RIM-COD-URL-172: QuikDict-172.cod
+RIM-COD-URL-171: QuikDict-171.cod
+RIM-COD-URL-170: QuikDict-170.cod
+RIM-COD-SHA1-139: 58 78 e5 2e 82 a8 15 bf 63 ad 9d 62 ea 74 4a 06 e4 84 5d bf
+RIM-COD-SHA1-138: ab 50 62 76 03 f2 70 d4 2f 39 ab 69 83 63 a4 50 4a 7e 6b b8
+RIM-COD-Size-176: 52764
+RIM-COD-SHA1-137: 13 5a 1d 00 d1 fe 4f 78 b2 ba b9 63 81 71 07 7a e5 b5 f3 2d
+RIM-COD-Size-175: 52764
+RIM-COD-SHA1-136: a6 fe 84 39 fd 67 83 24 a0 4d 13 a2 33 7a f8 74 1c 52 31 21
+RIM-COD-Size-174: 52764
+RIM-COD-SHA1-135: 13 01 ee af 80 6c cb 47 41 4e 78 bd b7 e7 f5 32 ed 25 32 af
+RIM-COD-Size-173: 52764
+RIM-COD-SHA1-134: 76 d9 06 02 02 cd ad 5a 5a 71 31 e6 1d 13 c6 b8 e4 23 c5 73
+RIM-COD-Size-172: 52764
+RIM-COD-SHA1-133: 1d 93 d1 a7 6a 05 74 b0 19 ee 8a 72 9f 01 2b de 5f f9 a3 06
+RIM-COD-Size-171: 52764
+RIM-COD-SHA1-132: 39 dd e1 e5 9b 42 88 d7 78 fb f7 2a 70 d9 1f d1 67 8e a0 df
+RIM-COD-Size-170: 52764
+RIM-COD-SHA1-131: b6 43 b1 fd 6e e0 e3 bc bb 1d 1e bc 62 b2 ab 9b 0a 5f 66 ef
+RIM-COD-SHA1-130: 06 bd 47 15 d2 28 17 5c 85 ec 57 50 22 cf ca 0c 72 4a 9e 1c
+RIM-COD-URL-169: QuikDict-169.cod
+RIM-COD-URL-168: QuikDict-168.cod
+RIM-COD-URL-167: QuikDict-167.cod
+RIM-COD-URL-166: QuikDict-166.cod
+RIM-COD-URL-165: QuikDict-165.cod
+RIM-COD-URL-164: QuikDict-164.cod
+RIM-COD-URL-163: QuikDict-163.cod
+RIM-COD-URL-162: QuikDict-162.cod
+RIM-COD-URL-161: QuikDict-161.cod
+RIM-COD-URL-160: QuikDict-160.cod
+RIM-COD-Size-169: 52744
+RIM-COD-Size-168: 52744
+RIM-COD-SHA1-129: fb 5a b8 ac cd 04 c9 f6 24 df f5 4a 43 78 c2 a2 67 54 96 d7
+RIM-COD-Size-167: 59524
+RIM-COD-SHA1-128: 05 bd 43 f0 83 67 c3 b1 3a 7b 2a 87 0e 41 66 fc 00 f8 4b 10
+RIM-COD-Size-166: 52336
+RIM-COD-SHA1-127: 58 f9 cf a9 f1 48 8d ff 49 72 e7 55 f3 b5 5f 52 55 ec c5 eb
+MIDlet-Description: Thai-English & English-Thai Dictionary
+RIM-COD-Size-165: 52764
+RIM-COD-SHA1-126: b0 8c 01 fe 17 10 49 03 e4 f0 4d 08 71 03 c0 ba a4 58 f9 db
+RIM-COD-Size-164: 52764
+RIM-COD-SHA1-125: 57 97 7b 7a da e1 94 35 7b 64 d9 e8 d7 ad fc f9 17 41 9e b9
+RIM-COD-Size-163: 52764
+RIM-COD-SHA1-124: d5 b2 59 63 44 ab 0c 1a 05 c1 d4 a3 ba 9a 47 2e 33 8f e1 60
+RIM-COD-Size-162: 52764
+RIM-COD-SHA1-123: 3a b7 63 7b 24 a9 12 db fd b7 3b a5 76 6b 36 66 e8 51 0d a6
+RIM-COD-Size-161: 52764
+RIM-COD-SHA1-122: 36 a6 29 7f 1e 4a 1d 5f 4e 83 b4 70 3c 86 cc 21 3a d9 bd 4b
+RIM-COD-Size-160: 52764
+RIM-COD-SHA1-121: 29 04 e8 56 62 7f c5 4e 8b c2 5e 43 07 fc 35 ed 78 79 34 cd
+RIM-COD-SHA1-120: 56 b8 35 7f ca bf 58 c7 39 1b 46 f1 34 04 11 40 79 d6 2f e1
+RIM-COD-URL-159: QuikDict-159.cod
+RIM-COD-URL-158: QuikDict-158.cod
+RIM-COD-URL-157: QuikDict-157.cod
+RIM-COD-URL-156: QuikDict-156.cod
+RIM-COD-URL-155: QuikDict-155.cod
+RIM-COD-URL-154: QuikDict-154.cod
+RIM-COD-URL-153: QuikDict-153.cod
+RIM-COD-URL-152: QuikDict-152.cod
+RIM-COD-URL-151: QuikDict-151.cod
+RIM-COD-URL-150: QuikDict-150.cod
+RIM-COD-Size-159: 52764
+RIM-COD-Size-158: 52764
+RIM-COD-SHA1-119: 1b 4c e0 f9 7f 90 ec 41 f0 00 cc 56 1b 4d c3 89 a1 8b 94 ec
+RIM-COD-Size-157: 52764
+RIM-COD-SHA1-118: ab eb 96 0a b0 6b 5c 55 d4 34 fa 5a ab 25 2f 1f 5d ee 92 c3
+RIM-COD-Size-156: 52764
+RIM-COD-SHA1-117: af 80 ee 87 20 50 5d 7e 24 d3 b2 82 95 33 13 44 3c 52 f8 a8
+RIM-COD-Size-155: 52336
+RIM-COD-SHA1-116: 34 9f 8c 34 63 2e a1 b1 42 c0 96 fd 32 41 fb be 2e a0 6a 43
+RIM-COD-Size-154: 52764
+RIM-COD-SHA1-115: eb c6 0e 13 7b 31 8b 6e b8 aa 35 a1 2d e9 8e 12 7a 84 32 b6
+RIM-COD-Size-153: 52764
+RIM-COD-SHA1-114: 87 30 bd 14 45 a4 81 70 59 35 79 7e fa 23 35 fe c9 62 76 97
+RIM-COD-Size-152: 52764
+RIM-COD-SHA1-113: 80 63 af 9b 10 2b 77 35 6f 72 1e 11 51 00 24 85 18 33 19 18
+RIM-COD-Size-151: 52764
+RIM-COD-SHA1-112: ae 3b 71 9f 18 0c a9 7d 9f f3 bd 0d f8 1e 84 8d dc f1 e2 bc
+RIM-COD-Size-150: 52764
+RIM-COD-SHA1-111: 91 f8 64 af dc 1f a8 21 df db 7c 5b 59 b2 39 cd 72 37 da b5
+RIM-COD-SHA1-110: 7f fd 9e 57 d5 28 5c 9c e4 9f 20 d0 0b 59 39 5d 26 44 66 33
+RIM-COD-URL-149: QuikDict-149.cod
+RIM-COD-URL-148: QuikDict-148.cod
+RIM-COD-URL-147: QuikDict-147.cod
+RIM-COD-URL-146: QuikDict-146.cod
+RIM-COD-URL-145: QuikDict-145.cod
+RIM-COD-URL-144: QuikDict-144.cod
+RIM-COD-URL-143: QuikDict-143.cod
+RIM-COD-URL-142: QuikDict-142.cod
+RIM-COD-URL-141: QuikDict-141.cod
+RIM-COD-URL-140: QuikDict-140.cod
+RIM-COD-Size-149: 52764
+MIDlet-Name: QuikDict
+RIM-COD-Size-148: 52764
+RIM-COD-SHA1-109: 2d 18 0f 24 f4 b4 90 71 d5 6c 3f 1e 4b f3 25 1f 7d c0 27 45
+RIM-COD-Size-147: 52752
+RIM-COD-SHA1-108: 41 81 23 70 0e 09 0e 76 1f 05 32 f9 93 ef ae 7d fb 55 b4 4c
+RIM-COD-Size-146: 52744
+RIM-COD-SHA1-107: ef 14 02 d5 b2 1a 0d 30 a4 4c a2 8d 1b 6f 1b ab 02 10 08 1a
+RIM-COD-Size-145: 59224
+RIM-COD-SHA1-106: 00 05 74 96 5e 8f 1d db 9c 17 08 fe ee 51 9d ee 59 72 de b2
+RIM-COD-Size-144: 54804
+RIM-COD-SHA1-105: b5 28 0d 4a 73 64 cb ce 33 19 c4 0f 13 16 c0 55 56 29 6b af
+RIM-COD-Size-143: 52696
+RIM-COD-SHA1-104: 5e 32 a4 2a b8 35 5d de b0 aa 48 14 f5 34 0b 11 6d 0b 39 37
+RIM-COD-Size-142: 52696
+RIM-COD-SHA1-103: a9 23 91 d1 18 4c 81 7f 7a 48 a4 11 1e 8c ad 42 bd 82 b5 04
+RIM-COD-Size-141: 52696
+RIM-COD-SHA1-102: 30 de 0b b2 3a 15 44 4b ac db ad ef 95 85 64 72 bf 5d bb 45
+RIM-COD-Size-140: 52696
+RIM-COD-SHA1-101: 69 69 2d 31 3e 80 4e f1 f9 0d 04 cf f3 cc 19 86 76 45 c3 da
+RIM-COD-SHA1-100: ac 36 a5 0f 84 c4 57 96 54 a3 38 f6 66 7b aa fd b3 cd b2 17
+RIM-COD-URL-139: QuikDict-139.cod
+RIM-COD-URL-138: QuikDict-138.cod
+RIM-COD-URL-137: QuikDict-137.cod
+RIM-COD-URL-136: QuikDict-136.cod
+RIM-COD-URL-135: QuikDict-135.cod
+RIM-COD-URL-134: QuikDict-134.cod
+RIM-COD-URL-133: QuikDict-133.cod
+RIM-COD-URL-132: QuikDict-132.cod
+RIM-COD-URL-131: QuikDict-131.cod
+RIM-COD-URL-130: QuikDict-130.cod
+RIM-COD-Size-139: 52696
+RIM-COD-Size-138: 52696
+RIM-COD-Size-137: 52696
+RIM-COD-Size-136: 52696
+RIM-COD-Size-135: 52696
+RIM-COD-Size-134: 52696
+RIM-COD-Size-133: 52336
+RIM-COD-Size-132: 52696
+RIM-COD-Module-Name: QuikDict
+RIM-COD-Size-131: 52696
+RIM-COD-Size-130: 52696
+RIM-COD-URL-129: QuikDict-129.cod
+RIM-COD-Size-99: 58448
+RIM-COD-URL-128: QuikDict-128.cod
+RIM-COD-Size-98: 52696
+RIM-COD-URL-127: QuikDict-127.cod
+RIM-COD-Size-97: 52696
+RIM-COD-URL-126: QuikDict-126.cod
+RIM-COD-Size-96: 52696
+RIM-COD-URL-125: QuikDict-125.cod
+RIM-COD-Size-95: 52696
+RIM-COD-URL-124: QuikDict-124.cod
+RIM-COD-Size-94: 52696
+RIM-COD-URL-123: QuikDict-123.cod
+RIM-COD-Size-93: 52696
+RIM-COD-URL-122: QuikDict-122.cod
+RIM-COD-Size-92: 54136
+RIM-COD-URL-121: QuikDict-121.cod
+RIM-COD-Size-91: 52340
+RIM-COD-URL-120: QuikDict-120.cod
+RIM-COD-Size-90: 52812
+RIM-COD-Size-129: 52696
+RIM-COD-Size-128: 52696
+RIM-MIDlet-Flags-1: 0
+RIM-COD-Size-127: 52696
+RIM-COD-Size-126: 52696
+RIM-COD-Size-125: 52696
+MicroEdition-Configuration: CLDC-1.1
+RIM-COD-Size-124: 52696
+RIM-COD-Size-123: 52696
+RIM-COD-Size-122: 52336
+RIM-COD-Size-121: 52680
+RIM-COD-Size-120: 52672
+Manifest-Version: 1.0
+RIM-COD-URL-119: QuikDict-119.cod
+RIM-COD-Size-89: 52432
+RIM-COD-URL-118: QuikDict-118.cod
+RIM-COD-Size-88: 52340
+RIM-COD-URL-117: QuikDict-117.cod
+RIM-COD-Size-87: 52340
+RIM-COD-URL-116: QuikDict-116.cod
+RIM-COD-Size-86: 61164
+RIM-COD-URL-115: QuikDict-115.cod
+RIM-COD-Size-85: 52768
+RIM-COD-URL-114: QuikDict-114.cod
+RIM-COD-Size-84: 52768
+RIM-COD-URL-113: QuikDict-113.cod
+RIM-COD-Size-83: 52768
+RIM-COD-URL-112: QuikDict-112.cod
+RIM-COD-Size-82: 52768
+RIM-COD-URL-111: QuikDict-111.cod
+MicroEdition-Profile: MIDP-2.0
+RIM-COD-Size-81: 52768
+RIM-COD-URL-110: QuikDict-110.cod
+RIM-COD-Size-80: 59964
+RIM-COD-Size-119: 52672
+RIM-COD-SHA1-99: c0 6b e7 09 ab 46 f0 67 3d d8 56 34 37 9d e9 b9 1a 93 af 2a
+RIM-COD-Size-118: 52672
+RIM-COD-SHA1-98: 25 f9 74 dd 44 bb 25 6e 28 dc a1 7c a2 f5 d0 60 c1 dc c5 55
+RIM-COD-Size-117: 52672
+RIM-COD-SHA1-97: 34 67 27 9f cb 88 ea 97 e4 3e 6c 00 5e ff 58 be e4 96 0f ee
+RIM-COD-Size-116: 52672
+RIM-COD-SHA1-96: 24 9b 43 b0 6c 8a a1 83 ed ba 28 4b 99 28 02 96 96 12 59 d1
+RIM-COD-Size-115: 52672
+RIM-COD-SHA1-95: 19 86 12 8f 1d e8 a9 02 d5 33 43 81 a0 74 bb f3 cc ee 06 23
+RIM-COD-Size-114: 52672
+RIM-COD-SHA1-94: 25 5d e1 bb 39 ee 24 ed 71 d7 9f d7 47 6a 12 a6 2f f7 43 af
+RIM-COD-Size-113: 52672
+RIM-COD-SHA1-93: 85 0f 3e 92 84 42 26 cc 1a d0 f8 9f 47 f6 01 d1 70 b2 56 e7
+RIM-COD-Size-112: 52672
+RIM-COD-SHA1-92: 9e 8b b8 27 c1 44 d0 a8 f3 88 0c 56 9a 53 d8 8b 2d 22 1e d6
+RIM-COD-Size-111: 52336
+RIM-COD-SHA1-91: 28 15 74 0b 0b 1e 88 7f 31 5c ad 12 33 bc b3 af 30 ec a3 e1
+RIM-COD-Size-110: 52672
+RIM-COD-SHA1-90: cd 9e b5 e7 cb a3 39 61 6c 46 42 b4 05 60 f5 a5 9a b8 b8 15
+RIM-COD-URL-109: QuikDict-109.cod
+RIM-COD-Size-79: 52768
+RIM-COD-URL-108: QuikDict-108.cod
+RIM-COD-Size-78: 52768
+RIM-COD-URL-107: QuikDict-107.cod
+RIM-COD-Size-77: 52768
+RIM-COD-URL-106: QuikDict-106.cod
+RIM-COD-Size-76: 52768
+RIM-COD-URL-105: QuikDict-105.cod
+RIM-COD-Size-75: 52768
+RIM-COD-URL-104: QuikDict-104.cod
+RIM-COD-URL-99: QuikDict-99.cod
+RIM-COD-Size-74: 52768
+RIM-COD-URL-103: QuikDict-103.cod
+RIM-COD-URL-98: QuikDict-98.cod
+RIM-COD-Size-73: 52768
+RIM-COD-URL-102: QuikDict-102.cod
+RIM-COD-URL-97: QuikDict-97.cod
+RIM-COD-Size-72: 52768
+RIM-COD-URL-101: QuikDict-101.cod
+RIM-COD-URL-96: QuikDict-96.cod
+RIM-COD-Size-71: 52768
+RIM-COD-URL-100: QuikDict-100.cod
+RIM-COD-URL-95: QuikDict-95.cod
+RIM-COD-Size-70: 52768
+RIM-COD-URL-94: QuikDict-94.cod
+RIM-COD-Size-109: 52672
+RIM-COD-URL-93: QuikDict-93.cod
+RIM-COD-SHA1-89: 72 6a 40 d0 10 58 b4 61 57 9c 14 87 e5 d3 c8 06 fb 1d d8 dd
+RIM-COD-Size-108: 52672
+RIM-COD-URL-92: QuikDict-92.cod
+RIM-COD-SHA1-88: 3b 52 c7 7c 09 66 d6 48 a3 59 b2 d9 be f2 a3 00 d0 a5 bc 78
+RIM-COD-Size-107: 52672
+RIM-COD-URL-91: QuikDict-91.cod
+RIM-COD-SHA1-87: db 98 a6 27 39 d6 1b c0 72 73 5c ca e2 14 7b ca b5 9f 93 24
+RIM-COD-Size-106: 52672
+RIM-COD-URL-90: QuikDict-90.cod
+RIM-COD-SHA1-86: 55 29 95 d4 cd d9 f4 95 aa 85 04 5d c6 dd a8 b5 db cb 62 c0
+RIM-COD-Size-105: 52672
+RIM-COD-SHA1-85: cb 37 81 a5 92 4b 7e 63 b6 87 ca 97 30 e0 4d a5 82 64 50 0c
+RIM-COD-Size-104: 52672
+RIM-COD-SHA1-84: 53 80 60 bd 68 80 3d 36 f8 b5 6a f2 f5 51 b5 46 37 e2 a9 dd
+MIDlet-Version: 1.3.0
+RIM-COD-Size-103: 52672
+RIM-COD-SHA1-83: c9 12 60 2f bb 30 56 85 4b 9d b0 b6 93 0d aa 4b 97 86 06 b8
+RIM-COD-Size-102: 52668
+RIM-COD-SHA1-82: cf f7 f1 58 a2 6b 7d 0f e8 1b 06 1b 84 b9 33 70 d1 4b 94 92
+RIM-COD-Size-101: 52668
+RIM-COD-SHA1-81: 04 3b c4 23 81 fa d1 d9 f7 67 5d 67 ff e7 eb 10 d6 69 e8 8a
+RIM-COD-Size-100: 52336
+RIM-COD-SHA1-80: 05 ff dc 11 69 60 c9 4c 63 83 23 ae 0f 3c a8 ab 2d bb 9d 47
+RIM-COD-Size-69: 52340
+RIM-COD-Size-68: 52768
+RIM-COD-Size-67: 52768
+RIM-COD-Size-66: 52768
+RIM-COD-Size-65: 52768
+RIM-COD-URL-89: QuikDict-89.cod
+RIM-COD-Size-64: 52768
+RIM-COD-URL-88: QuikDict-88.cod
+MIDlet-1: QuikDict,img/icon.png,
+RIM-COD-Size-63: 52768
+RIM-COD-URL-87: QuikDict-87.cod
+RIM-COD-Size-62: 52764
+RIM-COD-URL-86: QuikDict-86.cod
+RIM-COD-Size-61: 52764
+RIM-COD-URL-85: QuikDict-85.cod
+RIM-COD-Size-60: 52764
+RIM-COD-URL-84: QuikDict-84.cod
+RIM-COD-URL-83: QuikDict-83.cod
+RIM-COD-SHA1-79: e6 8e b6 2d f2 f6 b4 42 2c e6 a9 80 5c a1 9c 02 17 c4 cf d7
+RIM-COD-URL-82: QuikDict-82.cod
+RIM-COD-SHA1-78: 1f bb 55 44 bb 1e 2a 35 e2 70 24 02 98 94 ef 87 d1 57 6c ff
+RIM-COD-SHA1-77: 36 41 64 be 6e cb bf b6 69 ea d4 c2 c2 66 c6 33 c7 d9 50 84
+RIM-COD-URL-81: QuikDict-81.cod
+RIM-COD-SHA1-76: 3c 81 65 22 f9 8d cf d8 06 86 b1 3f 08 e5 c4 e8 13 96 c1 e2
+RIM-COD-URL-80: QuikDict-80.cod
+RIM-COD-SHA1-75: db 30 49 0e 85 b5 b0 1e bd 5a 5d e1 86 59 64 d4 c8 82 0c 45
+RIM-COD-SHA1-74: 9a 9e 4e 9d bc ea ee f9 b7 57 9a 76 7a f9 65 7c 41 6d e4 84
+RIM-COD-SHA1-73: 01 dd bb 7d 5c ea a8 0d 57 cb f3 6a 81 94 a4 57 38 78 87 93
+RIM-COD-SHA1-72: c2 90 51 82 d0 ca 70 8a d8 6a ea f9 91 ef c0 b2 35 6e 28 27
+RIM-COD-SHA1-71: e9 89 24 a4 41 02 d4 e9 9d f9 71 06 d1 bc db e3 4c 62 3d 37
+RIM-COD-SHA1-70: 8a fe 80 af 4f 0a 1e 02 33 d7 24 52 ea 14 71 05 56 67 b8 49
+RIM-COD-Size-59: 52764
+RIM-COD-Size-58: 52340
+MIDlet-Jar-URL: QuikDict.jar
+RIM-COD-Size-57: 52764
+RIM-COD-Size-56: 52764
+RIM-COD-Size-55: 52764
+RIM-COD-Size-54: 52764
+RIM-COD-URL-79: QuikDict-79.cod
+RIM-COD-Size-53: 52764
+RIM-COD-URL-78: QuikDict-78.cod
+RIM-COD-Size-52: 52764
+RIM-COD-URL-77: QuikDict-77.cod
+RIM-COD-Size-51: 52764
+RIM-COD-URL-76: QuikDict-76.cod
+RIM-COD-Size-50: 52764
+RIM-COD-URL-75: QuikDict-75.cod
+RIM-COD-URL-74: QuikDict-74.cod
+RIM-COD-SHA1-69: 22 35 ea 3c 26 57 c1 f3 d7 1e 89 83 c1 e5 fc d0 8e a4 49 92
+RIM-COD-URL-73: QuikDict-73.cod
+RIM-COD-SHA1-68: 63 b0 c8 a8 58 c6 18 b8 68 99 38 14 05 9b 45 6a 98 f4 fb 25
+RIM-COD-URL-72: QuikDict-72.cod
+RIM-COD-SHA1-67: 03 6b f0 3c 55 04 6c d8 9d 7c 32 0f 98 44 f6 99 23 bd 58 66
+RIM-COD-URL-71: QuikDict-71.cod
+RIM-COD-SHA1-66: 9e 46 d9 75 ba 27 b2 a2 8e f9 64 60 61 b0 81 0a c0 a8 ba b7
+RIM-COD-URL-70: QuikDict-70.cod
+RIM-COD-SHA1-65: f6 eb de 5a bb 4a f5 b5 c8 49 30 a1 af 31 e4 5d 85 2d 32 7a
+RIM-COD-SHA1-64: 90 8b c4 89 1d 06 fa 6d c1 f5 d3 95 7c 3f 95 8b ac 3f 0d 31
+RIM-COD-SHA1-63: 54 4e cb be 8e ad 89 83 94 32 97 84 23 96 99 23 a7 2a d6 ab
+RIM-COD-SHA1-62: 81 89 47 0f e4 7f 71 cd 21 c0 48 40 d0 08 89 e5 c6 b7 07 40
+RIM-COD-SHA1-61: 7c 40 32 57 43 63 c6 90 36 4b 19 a7 3f a5 a8 0e 1e b0 c8 a7
+RIM-COD-SHA1-60: 15 ad 0e ef c6 1b f0 fe 2e 5e 50 4d 22 c6 ac a5 b0 8d c8 ff
+RIM-COD-Size-49: 52764
+RIM-COD-Size-48: 52764
+RIM-COD-Size-47: 52336
+RIM-COD-Size-46: 52764
+RIM-COD-Size-45: 52764
+RIM-COD-Size-44: 52764
+RIM-COD-URL-69: QuikDict-69.cod
+RIM-COD-Size-43: 52764
+RIM-COD-URL-68: QuikDict-68.cod
+RIM-COD-Size-42: 52752
+RIM-COD-URL-67: QuikDict-67.cod
+RIM-COD-Size-41: 52744
+RIM-COD-URL-66: QuikDict-66.cod
+RIM-COD-Size-40: 52748
+RIM-COD-URL-65: QuikDict-65.cod
+RIM-COD-URL-64: QuikDict-64.cod
+RIM-COD-SHA1-59: 84 63 69 a9 73 68 8a c7 74 5f 1c ab 39 20 d3 99 91 a8 95 d7
+RIM-COD-URL-63: QuikDict-63.cod
+RIM-COD-SHA1-58: 3c 71 66 cd 68 f3 d0 f4 ed 16 e6 63 0a 5f ef 08 e0 cd f8 4b
+RIM-COD-URL-62: QuikDict-62.cod
+RIM-COD-SHA1-57: fa e5 5c 70 3a fe 96 15 8d 72 41 b5 97 db 1f cf 82 d2 2c 51
+RIM-COD-URL-61: QuikDict-61.cod
+RIM-COD-SHA1-56: ee b9 67 56 4b 3f eb 72 6e 9e 40 f6 df a4 5b da fe 4d 0a bd
+RIM-COD-URL-60: QuikDict-60.cod
+RIM-COD-SHA1-55: bc e7 8a ba 51 e1 9f 70 6c 7d 52 03 0c 40 97 ab 95 32 63 b3
+RIM-COD-SHA1-54: 66 4c bc 0f cf e6 b4 fa b2 20 32 16 f4 08 ec 59 03 a1 7d 97
+RIM-COD-SHA1-53: 10 85 20 3f f5 ae e3 b6 fa c9 52 cb 76 9b 56 ce c2 c4 1a 9c
+RIM-COD-SHA1-52: 14 af 93 e5 e2 62 bd 50 49 72 20 8b 02 30 02 49 1f 76 d1 6d
+RIM-COD-SHA1-51: f6 36 7d f2 2c 35 8c c6 da 0a f9 6c 70 cb 4e a5 de 15 ec b6
+RIM-COD-SHA1-50: 52 e7 c3 35 b7 20 e6 f1 50 d1 73 d1 73 47 c4 20 44 d8 79 1d
+RIM-COD-URL-9: QuikDict-9.cod
+RIM-COD-URL-8: QuikDict-8.cod
+RIM-COD-URL-7: QuikDict-7.cod
+RIM-COD-URL-6: QuikDict-6.cod
+RIM-COD-URL-5: QuikDict-5.cod
+RIM-COD-URL-4: QuikDict-4.cod
+MIDlet-Vendor: Click Connect Co., Ltd.
+RIM-COD-URL-3: QuikDict-3.cod
+RIM-COD-URL-2: QuikDict-2.cod
+RIM-COD-Size-39: 52768
+RIM-COD-URL-1: QuikDict-1.cod
+RIM-COD-Size-38: 52768
+RIM-COD-Size-37: 52768
+RIM-COD-Size-36: 58040
+RIM-COD-Size-35: 52768
+RIM-COD-Size-34: 52768
+RIM-COD-URL-59: QuikDict-59.cod
+RIM-COD-Size-33: 52768
+RIM-COD-URL-58: QuikDict-58.cod
+RIM-COD-Size-32: 52768
+RIM-COD-URL-57: QuikDict-57.cod
+RIM-COD-Size-31: 52768
+RIM-COD-URL-56: QuikDict-56.cod
+RIM-COD-Size-30: 52768
+RIM-COD-URL-55: QuikDict-55.cod
+RIM-COD-URL-54: QuikDict-54.cod
+RIM-COD-SHA1-49: 34 76 ef cd 88 fb 8f 0e bf 45 97 97 82 86 04 dc 70 fb b3 1f
+RIM-COD-URL-53: QuikDict-53.cod
+RIM-COD-SHA1-48: 0c 60 5e 4e a3 43 21 7b 55 8c b3 ce 56 ae 98 44 49 b9 ea 45
+RIM-COD-URL-52: QuikDict-52.cod
+RIM-COD-SHA1-47: 57 f6 89 7c 35 da d4 8d d3 6d 44 db ff 1e 94 7f 0d 97 d0 ae
+RIM-COD-URL-51: QuikDict-51.cod
+RIM-COD-SHA1-46: e9 35 0a 5a d5 38 21 1e 9e 4b 12 09 ab 6a bf 79 93 fd f8 59
+RIM-COD-URL-50: QuikDict-50.cod
+RIM-COD-SHA1-45: a6 bc e3 2a 05 52 11 fe 74 7a 32 1b 6f 47 ad bc cd 72 d8 61
+RIM-COD-SHA1-44: 83 0e 2a a3 6d 04 7c 66 a9 16 29 d5 6d ed 10 48 d2 f2 bd 7c
+RIM-COD-SHA1-43: e6 be e0 a3 89 08 73 27 8c e7 14 96 8d 3d a5 bf 80 d2 a8 40

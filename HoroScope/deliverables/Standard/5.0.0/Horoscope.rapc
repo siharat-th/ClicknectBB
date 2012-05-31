@@ -1,0 +1,10 @@
+MIDlet-Name: HoroScope
+MIDlet-Version: 1.5.0
+MIDlet-Vendor: Clicknect Co., Ltd.
+MIDlet-Jar-URL: HoroScope.jar
+MIDlet-Jar-Size: 0
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: Horoscope,res/img/icon.png,
+RIM-MIDlet-Flags-1: 0
+

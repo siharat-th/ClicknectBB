@@ -1,0 +1,10 @@
+MIDlet-Name: ThaiTVSchedule
+MIDlet-Version: 1.5.0
+MIDlet-Vendor: Click Connect Co., Ltd.
+MIDlet-Jar-URL: ThaiTVSchedule.jar
+MIDlet-Jar-Size: 0
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: Thai TV Schedule,res/img/icon.png,
+RIM-MIDlet-Flags-1: 0
+
